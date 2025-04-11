@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.11.1",
+    "react-router-dom": "^6.11.1",
+    "truffle": "^5.9.0",
+    "web3": "^4.3.0"
+  }
+}
